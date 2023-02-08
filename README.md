@@ -8,7 +8,7 @@
   continue to build your CLI.
 - Use SQLAlchemy ORM to join multiple tables to each other using one-to-one,
   one-to-many, many-to-many relationships.
-- Use one or more algorithm from DSA.
+- Use `list`s, `dict`s, and `tuple`s in appropriate contexts.
 - Exercise best practices in CLI design.
 
 ***
@@ -54,8 +54,6 @@ everything in, but we'll expect to see:
 - A well-maintained virtual environment using Pipenv.
 - Proper package structure in your application.
 - Use of `list`s, `dict`s, and `tuple`s.
-- Appropriate and accurate implementation of an algorithm from the Data
-  Structures and Algorithms Canvas module.
 
 A rubric for this project is available on the next page in this Canvas module.
 Make sure to take a look before you get started!
