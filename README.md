@@ -66,8 +66,8 @@ Make sure to take a look before you get started!
 - Keep your Python objects, SQLAlchemy objects, and CLI script in separate
   modules.
 - If you get stuck trying to accomplish a specific task, check online to see if
-  there's a Python library that wlil make it easier.
-- Consider using [Click](click) or [Fire](fire) to take care of basic CLI tasks
+  there's a Python library that will make it easier.
+- Consider using [Click][click] or [Fire][fire] to take care of basic CLI tasks
   for you.
 
 ***
