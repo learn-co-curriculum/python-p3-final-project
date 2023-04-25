@@ -55,9 +55,6 @@ everything in, but we'll expect to see:
 - Proper package structure in your application.
 - Use of `list`s, `dict`s, and `tuple`s.
 
-A rubric for this project is available on the next page in this Canvas module.
-Make sure to take a look before you get started!
-
 ***
 
 ## Tips and Tricks?
